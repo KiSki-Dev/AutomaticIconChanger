@@ -20,5 +20,5 @@ License: [License.md](https://github.com/KiSki-Dev/AutomaticIconChanger/blob/mai
 - Skip Command
 
 ## Todo-List
-- [ ] List every Pictures
-- [ ] Force Select Picture
+- [ ] List every Pictures Command
+- [ ] Force Select Picture Command
