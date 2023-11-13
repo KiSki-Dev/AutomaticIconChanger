@@ -5,8 +5,8 @@ import random
 import aiohttp
 from discord.ext import commands
 
-token = ""
-log_id = 1234567890 # The ID of the Channel where the Logs are getting saved
+token = "YOUR-DISCORD-BOT-TOKEN-HERE"
+log_id = LOG-CHANNEL-ID # The ID of the Channel where the Logs are getting saved
 path = "pictures" # Path where the Pictures are saved
 time = 600 # Time between every Automatic Change
 # 600 Seconds = 10 Minutes
