@@ -25,3 +25,4 @@ License: [License.md](https://github.com/KiSki-Dev/AutomaticIconChanger/blob/mai
 
 ## Warning
 Dont use to many Skips after each other or else you get a "Timeout" by Discord!
+The Timeout will last about 15 Minutes!
