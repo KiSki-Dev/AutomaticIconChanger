@@ -22,3 +22,6 @@ License: [License.md](https://github.com/KiSki-Dev/AutomaticIconChanger/blob/mai
 ## Todo-List
 - [ ] List every Pictures Command
 - [ ] Force Select Picture Command
+
+## Warning
+Dont use to many Skips after each other or else you get a "Timeout" by Discord!
