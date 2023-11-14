@@ -5,7 +5,7 @@
 ## Informations
 If you want to contact me, you can join my [Discord Server](https://discord.gg/53zaeTbYRn).
 
-If you find a bug, you can open a ticket on my [Discord Server](https://discord.gg/53zaeTbYRn) or report it directly under the [GitHub Issues Page](https://github.com/KiSki-Dev/AutoOffline/issues).
+If you find a bug, you can open a ticket on my [Discord Server](https://discord.gg/53zaeTbYRn) or report it directly under the [GitHub Issues Page](https://github.com/KiSki-Dev/AutomaticIconChanger/issues).
 #
 License: [License.md](https://github.com/KiSki-Dev/AutomaticIconChanger/blob/main/LICENSE.md)
 
